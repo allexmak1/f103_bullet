@@ -2,7 +2,7 @@
 
 Устройство таймер с музыкальным сопровождением для настольной игры bullet.
 
-![Screnshot](https://github.com/allexmak1/f103_bullet/tree/main/image/image.jpg)
+![Screnshot](https://github.com/allexmak1/f103_bullet/blob/main/image/image.jpg)
 
 Можно было просто написать приложение для телефона,
 но мне захотелось использовать железки которые завалялись
